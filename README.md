@@ -26,11 +26,10 @@ Technologies used:
 
 | File / Folder | Description |
 |---------------|-------------|
-| `database/` | SQL Server database and data warehouse backups |
+| `database/` | SQL Server Database and Data Warehouse backups |
 | `SSIS/` | ETL project for data warehousing |
 | `Dashboards/` | Power BI dashboard files (.pbix) |
-| `ERD/` | Entity-Relationship Diagram and mapping images |
-| `SQL_Scripts/` | Stored procedures for CRUD operations, Exam generation, and Reporting |
+| `ERD/` | Entity-Relationship Diagram and Mapping images |
 | `presentation.pdf` | Project Presentation|
 
 ---
