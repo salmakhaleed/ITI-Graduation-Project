@@ -81,9 +81,9 @@ These images demonstrate the **complete flow from transactional data to analytic
 
 ## **End-to-End Highlights**
 
-- Full **ERD & database design**  
-- **Stored procedures** for CRUD operations and exam management  
-- **ETL with SSIS** for data warehousing  
+- Full **ERD & Database design**  
+- **Stored procedures** for CRUD operations , SSRS Reports and Exam management  
+- **ETL with SSIS** for data warehousing
+- **SSRS reports** 
 - **Interactive Power BI dashboards**  
-- **SSRS reports** included in the presentation  
-- Complete **data pipeline from source to insights**  
+- Complete **Data pipeline from Source to Insights**  
