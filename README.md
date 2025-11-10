@@ -65,7 +65,7 @@ The project includes **five interactive dashboards** visualizing:
 - `ERD/ERD.png` → Shows the database structure and relationships  
 - `Mapping.png` → Shows the ETL/data warehouse mapping  
 
-These images demonstrate the **complete flow from transactional data to analytical insights**.
+These images demonstrate the **complete flow from Transactional Data to Analytical Insights**.
 
 ---
 
