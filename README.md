@@ -1,6 +1,6 @@
 # ITI-Graduation-Project
 Examination System | SQL &amp; Power BI Project
-# Online Examination System - End-to-End Project
+# Online Examination System - End-to-End SQL & Power BI Project
 
 This repository contains an **end-to-end Online Examination System**. The system covers **everything from database design, ETL (SSIS), SQL Server procedures, to SSRS reports and Power BI dashboards**.
 
